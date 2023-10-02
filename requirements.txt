@@ -118,4 +118,3 @@ webcolors
 webencodings
 websocket-client
 websockets
-wordcloud
