@@ -29,7 +29,7 @@ fqdn==1.5.1
 h11==0.14.0
 httptools==0.6.0
 idna==3.4
-ipykernel==6.25.2
+ipykernel
 ipython==8.15.0
 isoduration==20.11.0
 jedi==0.19.0
