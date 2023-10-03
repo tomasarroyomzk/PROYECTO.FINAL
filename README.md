@@ -27,3 +27,11 @@ Por ultimo, hice el despliegue del codigo para su consulta web desde Render. me 
 
 Video Demo
 Grabé un video corto donde muestro el resultado de las consultas propuestas y del modelo de ML entrenado el cual comparti en youtube para que lo puedas ver.
+
+
+PD
+por una cuestion de tiempo no llegue a finalizar el analisis de sentimiento
+
+contacto
+tomas.alejandro.arroyo@gmail.com
+
