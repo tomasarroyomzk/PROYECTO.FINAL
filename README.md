@@ -18,5 +18,8 @@ UserForGenre: Muestra el usuario que ha jugado más horas para un género en par
 Modelo de Aprendizaje Automático
 Después de preparar los datos y desarrollar la API, entrené un sistema de recomendación de videojuegos. Opté por relación user-item para hacer las recomendaciones. El resultado de este modelo puede consumirse a través de la API, el modelo recomendara 5 juegos para el usuario.
 
+RENDER
+Por ultimo, hice el despliegue del codigo para su consulta web desde Render. me fue bastante dificultoso dado que no podia avanzar a la hora de hacer el commit en render, hasta que comprendi que era un problema con las librerias y una vez modificado los nombres de las librerias desde el archivo requirements.txt pude finalmente subir el codigo.
+
 Video Demo
 Grabé un video corto donde muestro el resultado de las consultas propuestas y del modelo de ML entrenado el cual comparti en youtube para que lo puedas ver.
