@@ -13,7 +13,7 @@ df = pd.read_csv('df_final.csv')
 
 @app.get('/')
 def message():
-    return 'PROYECTO INTEGRADOR ALEXIS ALVAREZ'
+    return 'PROYECTO INTEGRADOR'
 
 @app.get('/PlayTimeGenre/')
 def PlayTimeGenre(genre: str) -> dict:
